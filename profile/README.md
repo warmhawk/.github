@@ -3,6 +3,11 @@
 </a>
 
 <p align="center">
+  <a href="https://github.com/warmhawk/warmhawk-core-engine/releases/latest"><img src="https://img.shields.io/github/v/release/warmhawk/warmhawk-core-engine?style=flat-square&color=B94B27&labelColor=251D14" alt="Latest release" /></a>
+  <a href="https://github.com/warmhawk/warmhawk-core-engine/blob/main/LICENSE"><img src="https://img.shields.io/github/license/warmhawk/warmhawk-core-engine?style=flat-square&color=DE9E38&labelColor=251D14" alt="License" /></a>
+</p>
+
+<p align="center">
   <a href="https://warmhawk.com">warmhawk.com</a> ·
   <a href="https://warmhawk.com/docs">docs</a> ·
   <a href="https://warmhawk.com/compare/pricing">pricing</a> ·
