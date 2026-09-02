@@ -72,37 +72,45 @@ Instantly, Smartlead, Lemlist, and Woodpecker all run every customer on shared, 
 ### 🗂️ Everything else
 
 <table>
-<tr><td valign="top" width="25%">
+<tr>
+<td valign="top" width="20%">
 
-**Product**
+**🧰 Product**
 - [Docs & quickstart](https://warmhawk.com/docs)
 - [Domain health check](https://warmhawk.com/tools/domain-check)
 - [Pricing](https://warmhawk.com/compare/pricing)
 - [Status](https://warmhawk.com/status)
 
-**For agents**
+</td>
+<td valign="top" width="20%">
+
+**🤖 For agents**
 - [llms.txt](https://warmhawk.com/llms.txt) — curated index for AI crawlers
 - [OpenAPI spec](https://warmhawk.com/openapi.json)
 
-</td><td valign="top" width="25%">
+</td>
+<td valign="top" width="20%">
 
-**Repos**
+**📦 Repos**
 - [warmhawk-core-engine](https://github.com/warmhawk/warmhawk-core-engine) — free, open-core (BSL 1.1)
 - [warmhawk-enterprise-operator](https://github.com/warmhawk/warmhawk-enterprise-operator) — licensed dashboard, private
 
-</td><td valign="top" width="25%">
+</td>
+<td valign="top" width="20%">
 
-**Community**
+**💬 Community**
 - [Roadmap (GitHub Discussions)](https://github.com/warmhawk/warmhawk-core-engine/discussions)
 - [Security disclosure](https://warmhawk.com/security)
 
-</td><td valign="top" width="25%">
+</td>
+<td valign="top" width="20%">
 
-**Contact**
-- Support: support@warmhawk.com
-- Security: security@warmhawk.com
+**✉️ Contact**
+- Support: [support@warmhawk.com](mailto:support@warmhawk.com)
+- Security: [security@warmhawk.com](mailto:security@warmhawk.com)
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 ---
